@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2yLO7vgr/jD07xyilkOZpZx3Y2BYQIeMsYXZo3KBvRX4T5qG15IGGpSf3EUNnwCwgWkpruG1SeqKxyL93xJ2AA==",
+  "dgSpecHash": "ZbRzjDQFJ6MmLtKXCjR+EVZNsXZhvJkab8Sqsz5u6l1E5djhJSlheS7W/oGCSC0drnASyX+t56FQcUikFMRdwA==",
   "success": true,
   "projectFilePath": "C:\\Users\\auyon.j6356\\source\\repos\\Interview_App_2\\BlazorMovies\\Shared\\BlazorMovies.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\auyon.j6356\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\auyon.j6356\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\auyon.j6356\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\auyon.j6356\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

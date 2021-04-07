@@ -65,7 +65,7 @@ using BlazorMovies.Shared.Entities;
         {
         }
         #pragma warning restore 1998
-#line 174 "C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\Pages\Account\CreateAccount.razor"
+#line 20 "C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\Pages\Account\CreateAccount.razor"
        
 
     private Account account = new Account();

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "O+34GjzKb6M0phwsFrMOf2gdooVtboNxLf5WRkJGoeCe9BYFm82G3KxnxmWSHM4fdH8UYicRP69IPOv86JJGOQ==",
+  "dgSpecHash": "x/eKTTNrfQDnPkRFXDJG6c+d5/hZITZx2XvmjcTThGSCthD/PYekub3Hei+JzOzs3hST8YoDy+9wNVeF6tYY/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\auyon.j6356\\source\\repos\\Interview_App_2\\BlazorMovies\\Client\\BlazorMovies.Client.csproj",
   "expectedPackageFiles": [
@@ -26,7 +26,7 @@
     "C:\\Users\\auyon.j6356\\.nuget\\packages\\mono.webassembly.interop\\3.1.0-preview1.19506.1\\mono.webassembly.interop.3.1.0-preview1.19506.1.nupkg.sha512",
     "C:\\Users\\auyon.j6356\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\auyon.j6356\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
-    "C:\\Users\\auyon.j6356\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0-preview1.19504.10\\system.componentmodel.annotations.4.7.0-preview1.19504.10.nupkg.sha512",
+    "C:\\Users\\auyon.j6356\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\auyon.j6356\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\auyon.j6356\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\auyon.j6356\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.0-preview1.19504.10\\system.runtime.compilerservices.unsafe.4.7.0-preview1.19504.10.nupkg.sha512",

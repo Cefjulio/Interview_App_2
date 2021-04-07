@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "j/1UvavST4hWPBiKxMgfWwBlMhndUpW/0RbWo71BbgR7ek3LoWpaT8fED62NNRDDxcF4qK0vmMVKBXm0vEnOog==",
+  "dgSpecHash": "QlZze1fGZF2r2AG6+Ay9hAOhHajC6WbALLM9xvvVMzNTGRGt1kGBPjSSZAETU/n7tdwx+x0Q7XTADkfwQzW9wA==",
   "success": true,
   "projectFilePath": "C:\\Users\\auyon.j6356\\source\\repos\\Interview_App_2\\BlazorMovies\\Server\\BlazorMovies.Server.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,7 @@
     "C:\\Users\\auyon.j6356\\.nuget\\packages\\runtime.native.system.security.cryptography\\4.0.0\\runtime.native.system.security.cryptography.4.0.0.nupkg.sha512",
     "C:\\Users\\auyon.j6356\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\auyon.j6356\\.nuget\\packages\\system.collections.concurrent\\4.0.12\\system.collections.concurrent.4.0.12.nupkg.sha512",
+    "C:\\Users\\auyon.j6356\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\auyon.j6356\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
     "C:\\Users\\auyon.j6356\\.nuget\\packages\\system.diagnostics.tracing\\4.1.0\\system.diagnostics.tracing.4.1.0.nupkg.sha512",
     "C:\\Users\\auyon.j6356\\.nuget\\packages\\system.globalization\\4.0.11\\system.globalization.4.0.11.nupkg.sha512",
