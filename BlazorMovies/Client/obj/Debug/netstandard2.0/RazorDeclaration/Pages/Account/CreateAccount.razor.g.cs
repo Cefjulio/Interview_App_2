@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace BlazorMovies.Client.Pages.Genres
+namespace BlazorMovies.Client.Pages.Account
 {
     #line hidden
     using System;
@@ -57,14 +57,28 @@ using BlazorMovies.Shared.Entities;
 
 #line default
 #line hidden
-    [Microsoft.AspNetCore.Components.RouteAttribute("/genre/create")]
-    public partial class CreateGenre : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/account/create")]
+    public partial class CreateAccount : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
+#line 174 "C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\Pages\Account\CreateAccount.razor"
+       
+
+    private Account account = new Account();
+
+    private void Create(){
+
+        Console.WriteLine(account.Name);
+    }
+
+
+
+#line default
+#line hidden
     }
 }
 #pragma warning restore 1591

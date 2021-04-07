@@ -64,16 +64,15 @@ using BlazorMovies.Shared.Entities;
         {
         }
         #pragma warning restore 1998
-#line 44 "C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\Shared\NavMenu.razor"
-       
-    private bool collapseNavMenu = true;
+#line 64 "C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\Shared\NavMenu.razor"
+        private bool collapseNavMenu = true;
 
     private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
 
     private void ToggleNavMenu()
     {
         collapseNavMenu = !collapseNavMenu;
-    }
+    } 
 
 #line default
 #line hidden

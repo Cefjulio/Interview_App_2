@@ -71,9 +71,6 @@ C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\RazorDeclaration\App.razor.g.cs
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Counter.razor.g.cs
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\FetchData.razor.g.cs
-C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Genres\CreateGenre.razor.g.cs
-C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Genres\EditGenre.razor.g.cs
-C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Genres\IndexGenres.razor.g.cs
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Index.razor.g.cs
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Movies\CreateMovie.razor.g.cs
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Movies\DetailsMovie.razor.g.cs
@@ -98,9 +95,6 @@ C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\Razor\App.razor.g.cs
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\Razor\Pages\Counter.razor.g.cs
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\Razor\Pages\FetchData.razor.g.cs
-C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\Razor\Pages\Genres\CreateGenre.razor.g.cs
-C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\Razor\Pages\Genres\EditGenre.razor.g.cs
-C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\Razor\Pages\Genres\IndexGenres.razor.g.cs
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\Razor\Pages\Index.razor.g.cs
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\Razor\Pages\Movies\CreateMovie.razor.g.cs
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\Razor\Pages\Movies\DetailsMovie.razor.g.cs
@@ -164,3 +158,16 @@ C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\blazor\linker\BlazorMovies.Shared.pdb
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\blazor\inputs.bootjson.cache
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\blazor\blazor.boot.json
+C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\RazorDeclaration\Shared\AlliedLayout.razor.g.cs
+C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\Razor\Shared\AlliedLayout.razor.g.cs
+C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\bin\Debug\netstandard2.0\BlazorMovies.Client.StaticWebAssets.xml
+C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\scopedcss\Shared\AlliedLayout.razor.rz.scp.css
+C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\scopedcss\projectbundle\BlazorMovies.Client.bundle.scp.css
+C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Account\CreateAccount.razor.g.cs
+C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Account\CreateGenre.razor.g.cs
+C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Account\EditGenre.razor.g.cs
+C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Account\IndexGenres.razor.g.cs
+C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\Razor\Pages\Account\CreateAccount.razor.g.cs
+C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\Razor\Pages\Account\CreateGenre.razor.g.cs
+C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\Razor\Pages\Account\EditGenre.razor.g.cs
+C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\obj\Debug\netstandard2.0\Razor\Pages\Account\IndexGenres.razor.g.cs

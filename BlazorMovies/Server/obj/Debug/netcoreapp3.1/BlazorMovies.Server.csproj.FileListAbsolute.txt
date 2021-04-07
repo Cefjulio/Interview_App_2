@@ -35,3 +35,4 @@ C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Server\obj\Debug\
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Server\obj\Debug\netcoreapp3.1\BlazorMovies.Server.dll
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Server\obj\Debug\netcoreapp3.1\BlazorMovies.Server.pdb
 C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Server\obj\Debug\netcoreapp3.1\BlazorMovies.Server.genruntimeconfig.cache
+C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Server\bin\Debug\netcoreapp3.1\BlazorMovies.Client.StaticWebAssets.xml

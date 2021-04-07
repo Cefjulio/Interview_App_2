@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace BlazorMovies.Client.Pages.Genres
+namespace BlazorMovies.Client.Pages.Account
 {
     #line hidden
     using System;
@@ -57,20 +57,14 @@ using BlazorMovies.Shared.Entities;
 
 #line default
 #line hidden
-    [Microsoft.AspNetCore.Components.RouteAttribute("/genre/edit/{GenreId:int}")]
-    public partial class EditGenre : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/genres")]
+    public partial class IndexGenres : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
-#line 5 "C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\Pages\Genres\EditGenre.razor"
-       
-    [Parameter] public int GenreId { get; set; }
-
-#line default
-#line hidden
     }
 }
 #pragma warning restore 1591

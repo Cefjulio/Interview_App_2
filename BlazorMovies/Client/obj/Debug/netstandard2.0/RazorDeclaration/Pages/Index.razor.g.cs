@@ -57,8 +57,6 @@ using BlazorMovies.Shared.Entities;
 
 #line default
 #line hidden
-    [Microsoft.AspNetCore.Components.RouteAttribute("/")]
-    [Microsoft.AspNetCore.Components.RouteAttribute("/index")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -66,17 +64,6 @@ using BlazorMovies.Shared.Entities;
         {
         }
         #pragma warning restore 1998
-#line 10 "C:\Users\auyon.j6356\source\repos\Interview_App_2\BlazorMovies\Client\Pages\Index.razor"
-      
-    private List<Movie> movies;
-    protected async override Task OnInitializedAsync()
-    {
-        movies = repository.GetMovies();
-    }
-
-#line default
-#line hidden
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IRepository repository { get; set; }
     }
 }
 #pragma warning restore 1591
